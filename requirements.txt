@@ -1,0 +1,11 @@
+langchain
+streamlit
+# torch
+accelerate
+transformers
+sentence_transformers
+streamlit_chat
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
